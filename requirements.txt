@@ -1,0 +1,16 @@
+# Core scientific stack
+numpy>=1.23
+pandas>=2.0
+pyarrow>=10.0
+
+# RL & environments
+gymnasium>=0.28
+stable-baselines3>=2.0.0
+torch>=2.1
+
+# Stats & utilities
+scipy>=1.10
+tqdm>=4.66
+
+# Logging 
+tensorboard>=2.12
