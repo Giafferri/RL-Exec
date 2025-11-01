@@ -17,6 +17,7 @@ pip install -r requirements.txt
 - `data/202002*.feather` → **test** (Feb‑2020; 28 days; one day may be missing)
 
 > **Dataset acknowledgment** — BTC‑USD LOB data and preliminary analysis courtesy of **Jonathan Sadighian (SESAMm)** from *Extending Deep Reinforcement Learning Frameworks in Cryptocurrency Market Making*.
+> Feather data (Google Drive): https://drive.google.com/drive/folders/1dttg68tt6yeo1DFY175uOfj3EsaXYflD?usp=sharing
 
 ---
 
